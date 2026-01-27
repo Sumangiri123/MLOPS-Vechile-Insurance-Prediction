@@ -6,6 +6,8 @@ notebook/
 # C extensions
 *.so
 
+artifact/
+
 # Distribution / packaging
 .Python
 build/
